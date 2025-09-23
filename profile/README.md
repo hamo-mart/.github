@@ -1,4 +1,4 @@
-## Hi there 👋
+## 하모 마트
 
 <!--
 
@@ -11,5 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-식자재 쇼핑몰 ERD
+### 식자재 쇼핑몰 ERD
 https://www.erdcloud.com/d/BdkY6HjHdyFnDbmi2
+
+### 일정
+2025.09.22~ 진행중
