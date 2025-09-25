@@ -14,5 +14,8 @@
 ### 식자재 쇼핑몰 ERD
 https://www.erdcloud.com/d/BdkY6HjHdyFnDbmi2
 
+### 주문 결제 프로세스
+https://grizzled-asp-d3f.notion.site/27881d4347e0809581d5c0433fca16fc?source=copy_link
+
 ### 일정
 2025.09.22~ 진행중
