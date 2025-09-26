@@ -17,5 +17,8 @@ https://www.erdcloud.com/d/BdkY6HjHdyFnDbmi2
 ### 주문 결제 프로세스
 https://grizzled-asp-d3f.notion.site/27881d4347e0809581d5c0433fca16fc?source=copy_link
 
+### 회원 인증 프로세스
+https://grizzled-asp-d3f.notion.site/27a81d4347e0803eb537e7385f615658?source=copy_link
+
 ### 일정
 2025.09.22~ 진행중
